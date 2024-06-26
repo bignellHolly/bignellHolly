@@ -4,7 +4,7 @@
 - 📫 How to reach me hollybignell99@gmail.com
 - 😄 Pronouns: she/her
 
-Hi there! I'm Holly Bignell, a 24-year-old chemistry grad with a passion for genomic data science. Currently traveling through Australia, I'm also diving into game development with C# and Unity. I love unraveling the mysteries of data, from atmospheric emissions to RNA expression in lymphoma cells. Ready to kickstart my career in a data-driven role, I'm excited to turn complex data into actionable insights. Let's connect and explore together!
+Hi there! I'm Holly Bignell, a chemistry grad with a passion for genomic data science. Currently traveling through Australia, I'm also diving into game development with C# and Unity. I love unraveling the mysteries of data, from atmospheric emissions to RNA expression in lymphoma cells. Ready to kickstart my career in a data-driven role, I'm excited to turn complex data into actionable insights. Let's connect and explore together!
 
 
 
